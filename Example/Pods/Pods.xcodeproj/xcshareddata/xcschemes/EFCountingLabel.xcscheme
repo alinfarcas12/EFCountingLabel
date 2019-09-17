@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B0F85C85FC1A7A5C9193CC47492B429F"
-               BuildableName = "Pods_EFCountingLabel_Tests.framework"
-               BlueprintName = "Pods-EFCountingLabel_Tests"
+               BlueprintIdentifier = "8D87E5A9FC1F8F56498963BEA9EDFE7A"
+               BuildableName = "EFCountingLabel.framework"
+               BlueprintName = "EFCountingLabel"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B0F85C85FC1A7A5C9193CC47492B429F"
-            BuildableName = "Pods_EFCountingLabel_Tests.framework"
-            BlueprintName = "Pods-EFCountingLabel_Tests"
+            BlueprintIdentifier = "8D87E5A9FC1F8F56498963BEA9EDFE7A"
+            BuildableName = "EFCountingLabel.framework"
+            BlueprintName = "EFCountingLabel"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -63,9 +63,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B0F85C85FC1A7A5C9193CC47492B429F"
-            BuildableName = "Pods_EFCountingLabel_Tests.framework"
-            BlueprintName = "Pods-EFCountingLabel_Tests"
+            BlueprintIdentifier = "8D87E5A9FC1F8F56498963BEA9EDFE7A"
+            BuildableName = "EFCountingLabel.framework"
+            BlueprintName = "EFCountingLabel"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

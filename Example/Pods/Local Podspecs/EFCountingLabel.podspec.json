@@ -1,10 +1,9 @@
 {
   "name": "EFCountingLabel",
-  "version": "5.1.0",
+  "version": "4.2.1",
   "summary": "A label which can show number change animated.",
   "description": "A label which can show number change animated, in Swift.",
   "homepage": "https://github.com/EFPrefix/EFCountingLabel",
-  "screenshots": "https://raw.githubusercontent.com/EFPrefix/EFCountingLabel/master/Assets/EFCountingLabel.png",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -14,11 +13,12 @@
   },
   "source": {
     "git": "https://github.com/EFPrefix/EFCountingLabel.git",
-    "tag": "5.1.0"
+    "tag": "4.2.1"
   },
   "social_media_url": "https://twitter.com/EyreFree777",
   "platforms": {
     "ios": "8.0"
   },
+  "requires_arc": true,
   "source_files": "EFCountingLabel/Classes/*.swift"
 }
